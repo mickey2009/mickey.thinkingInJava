@@ -1,7 +1,5 @@
 package collections;
 
-import interfaces.InterfaceField;
-
 import java.util.*;
 
 /**
