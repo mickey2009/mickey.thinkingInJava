@@ -1,6 +1,5 @@
-package threads.concurrent;
+package threads.concurrency;
 
-import java.sql.Time;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;

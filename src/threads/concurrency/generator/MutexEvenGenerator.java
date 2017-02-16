@@ -1,7 +1,7 @@
-package threads.concurrent.generator;
+package threads.concurrency.generator;
 
-import threads.concurrent.EvenChecker;
-import threads.concurrent.IntGenerator;
+import threads.concurrency.EvenChecker;
+import threads.concurrency.IntGenerator;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

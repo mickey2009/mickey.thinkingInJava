@@ -1,7 +1,7 @@
-package threads.concurrent.generator;
+package threads.concurrency.generator;
 
-import threads.concurrent.EvenChecker;
-import threads.concurrent.IntGenerator;
+import threads.concurrency.EvenChecker;
+import threads.concurrency.IntGenerator;
 
 /**
  * Created by Mickey on 2017/2/15.

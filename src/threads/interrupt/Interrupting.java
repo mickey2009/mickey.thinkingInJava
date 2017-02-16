@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created by Mickey on 2017/2/15.
- * 阻塞的场景:sleep() , 等待IO , 等待锁。 其中只有sleep
+ * 阻塞的场景:sleep() , 等待IO , 等待锁。 其中只有sleep可以被阻塞
  */
 class SleepBlocked implements Runnable {
     @Override
